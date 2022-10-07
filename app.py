@@ -1,6 +1,3 @@
-#from crypt import methods
-from crypt import methods
-from curses.ascii import EM
 from flask import Flask, request
 from flask_sqlalchemy import SQLAlchemy
 
