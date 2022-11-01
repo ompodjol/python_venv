@@ -1,0 +1,16 @@
+ 1045  vi notes.txt
+ 1046  flask run
+ 1047  ls
+ 1048  ls -al
+ 1049  export FLASK_ENV=development
+ 1050  flask run
+ 1051  pip3 install flask-sqlalchemy
+ 1052  cat requirements.txt
+ 1053  ls
+ 1054  export FLASK_ENV=development
+ 1055  flask run
+ 1056  flask run
+ 1057  python3
+ 1058  python3
+ 1059  flask run
+ 1060  hitory > notes.txt
